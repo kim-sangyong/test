@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+p{
+ 	font-size: 1.6rem;
+	text-align: center; 
+	color: white;
+}
+
+.test{
+	color: glay;
+	font-size: 40px;
+}
